@@ -7,14 +7,16 @@
 3. [MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf)
 
 **Steps on MagiskHidePropsConf**
-1. Change your device fingerprint to Huawei P20  EML-L09
-2. Enable device simulation and set it to Huawei P20 EML-L09
+1. Install 1-MagiskHidePropsConf-v6.1.2.zip from Magisk then reboot.
+2. Open Termux or another terminal app and send su command, allow permission and after that send props.
+3. Change your device fingerprint to Huawei P20  EML-L09.
+4. Enable device simulation and set it to Huawei P20 EML-L09.
 
 **Let's Setup Google Apps**
 
-1. Install 1-Huawei-Native-GApps.zip module in to Magisk.
-2. Restart your device.
-3. Install 2-PrebuiltGmsCore.apk file.
+1. Install 2-Huawei-Native-GApps.zip module in to Magisk.
+2. Reboot your device.
+3. Install 3-PrebuiltGmsCore.apk file.
 4. Add your Google Account.
 5. Enjoy!
 

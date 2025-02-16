@@ -1,5 +1,8 @@
 # Huawei Native GApps Magisk
 
+## This module based on EMUI 10 (Android 10) arm OpenGapps mini package.
+#### If you need arm64 or higher Android version, create an issue for that. I'll be prepare packages for you.
+
 **Requirements to install Google apps on Huawei device**
 
 1. Unlock your Bootloader [e.g. Huawei Y6p Bootloader Unlock](https://xdaforums.com/t/bootloader-unlock-for-huawei-y5p-y6p-honor-9s.4642984/) 
@@ -23,5 +26,5 @@
 
 Thanks to [rayae](https://github.com/rayae/OpenGapps-For-Magisk-Converter) for the OpenGapps For Magisk Converter.
 
-### Google and Google Play are trademarks of Google LLC and this repository is not endorsed by Google in any way.
-### This repository is not endorsed by Huawei in any way. Huawei is a trademark of Huawei Technologies Co. Ltd.
+##### Google and Google Play are trademarks of Google LLC and this repository is not endorsed by Google in any way.
+##### This repository is not endorsed by Huawei in any way. Huawei is a trademark of Huawei Technologies Co. Ltd.

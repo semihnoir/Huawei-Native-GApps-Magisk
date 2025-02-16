@@ -12,7 +12,7 @@
 
 **Let's Setup Google Apps**
 
-1. Install Huawei-Native-GApps-Magisk.zip module in to Magisk.
+1. Install 1-Huawei-Native-GApps-Magisk.zip module in to Magisk.
 2. Restart your device.
 3. Install 2-PrebuiltGmsCore.apk file.
 4. Add your Google Account.
